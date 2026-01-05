@@ -1,5 +1,5 @@
 # Hi 👋, I'm Jack
-**Software Engineer <a href="analytics.signal4lab.com" target="_blank" rel="noopener noreferrer">@Signal4</a>**
+**Software Engineer <a href="https://analytics.signal4lab.com/" target="_blank" rel="noopener noreferrer">@Signal4</a>**
 
 I'm a Fourth-year Computer Science student at the University of Florida with a focus on software development and AI/ML.
 
