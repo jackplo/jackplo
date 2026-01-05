@@ -14,6 +14,11 @@ I'm a Fourth-year Computer Science student at the University of Florida with a f
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
 
+**I'm interested in**
+- 1-bit Transformer architecture for Large Language Models
+- Setting up home servers
+- Watches ⌚
+
 **🚀 Languages and Tools:**
 
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
