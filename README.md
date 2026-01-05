@@ -16,7 +16,7 @@ I'm a Fourth-year Computer Science student at the University of Florida with a f
 
 **I'm interested in**
 - 1-bit Transformer architecture for Large Language Models
-- Setting up home servers
+- Agentic systems & workflows
 - Watches ⌚
 
 **🚀 Languages and Tools:**
