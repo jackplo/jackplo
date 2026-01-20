@@ -6,7 +6,7 @@ I'm a Fourth-year Computer Science student at the University of Florida with a f
 **🔭 I’m currently working on** 
 
 - <a href="https://shortlist.nyc/" target="_blank">Shortlist:</a> a platform for discovering and reserving restaurants using natural language, all within seconds.
-- A collaborative AI workspace for interacting with multiple models.
+- A more full featured adaptation of the minimalistic LLM Framework [<a href="https://shortlist.nyc/" target="_blank">Pocketflow</a>](https://github.com/The-Pocket/PocketFlow)
 
 **🌱 I’m currently learning**
 
