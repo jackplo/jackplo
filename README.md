@@ -3,18 +3,18 @@
 
 I'm a Fourth-year Computer Science student at the University of Florida with a focus on software development and AI/ML.
 
-**🔭 I’m currently working on** 
+**🏗️ I’m currently working on** 
 
 - <a href="https://shortlist.nyc/" target="_blank">Shortlist:</a> a platform for discovering and reserving restaurants using natural language, all within seconds.
 - A more full featured adaptation of the minimalistic LLM Framework [<a href="https://shortlist.nyc/" target="_blank">Pocketflow</a>](https://github.com/The-Pocket/PocketFlow)
 
-**🌱 I’m currently learning**
+**📚 I’m currently learning**
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
 
-**I'm interested in**
+**💬 I'm interested in**
 - 1-bit Transformer architecture for Large Language Models
 - Agentic systems & workflows
 - Watches ⌚
